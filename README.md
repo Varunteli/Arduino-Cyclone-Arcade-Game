@@ -27,7 +27,8 @@ This game is built with an Arduino Uno, WS2812B LED strip, and a push button. Wh
 - Foundational Skills for Arduino: This project covers core Arduino skills, including LED control, input handling, and basic game logic, making it ideal for beginners.
 
 ## Circuit Diagram
-*(Include a circuit diagram image here if available, or describe the connections)*
+![image](https://github.com/user-attachments/assets/1db7a11f-8912-47a1-ac37-cc41b232c865)
+
 
 ## Code
 The Arduino code handles LED animations and button input to simulate the game mechanics.
